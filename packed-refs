@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+09d6de490e9f876fe0fcba55161787b9c7d6c2cd refs/remotes/origin/development
+6a351cb6ad909c0d711925c5eb267ea33868198f refs/remotes/origin/master
+6a351cb6ad909c0d711925c5eb267ea33868198f refs/remotes/origin/monarch-fixes

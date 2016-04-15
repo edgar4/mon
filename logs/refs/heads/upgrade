@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 09d6de490e9f876fe0fcba55161787b9c7d6c2cd edgar chris <edgarchris4@gmail.com> 1456840826 +0300	branch: Created from refs/remotes/origin/upgrade
+09d6de490e9f876fe0fcba55161787b9c7d6c2cd 27c46ac8c888fbc02293454c1e01b0b7cb6b5130 edgar chris <edgarchris4@gmail.com> 1456840864 +0300	commit: ignore .idea
+27c46ac8c888fbc02293454c1e01b0b7cb6b5130 9a2cb7f56a0109437aaf9dae2163e80ca588006a edgar chris <edgarchris4@gmail.com> 1456842838 +0300	commit: wp ugrade
+9a2cb7f56a0109437aaf9dae2163e80ca588006a b9a84e854adb19d9af88478639ea1acd79f7c45e edgar chris <edgarchris4@gmail.com> 1456843143 +0300	commit: Contact Form datepicker upgrade
+b9a84e854adb19d9af88478639ea1acd79f7c45e 791272604bea9818f0acda330e95e3c4ccce82dc edgar chris <edgarchris4@gmail.com> 1456844193 +0300	commit: core and plugins update
+791272604bea9818f0acda330e95e3c4ccce82dc 41ce39c706ab5c118b9a794046839877017ebccb edgar chris <edgarchris4@gmail.com> 1460712712 +0300	commit: wp-core update
+41ce39c706ab5c118b9a794046839877017ebccb 230f6baf216399c5d74d615c0ed00a283b51f496 edgar chris <edgarchris4@gmail.com> 1460713093 +0300	commit: contact form 7 update
+230f6baf216399c5d74d615c0ed00a283b51f496 4b7114bc47968aaccd94f8cf82d4c0800a0ea86c edgar chris <edgarchris4@gmail.com> 1460714226 +0300	commit: plugins update
+4b7114bc47968aaccd94f8cf82d4c0800a0ea86c 7e39c0a2b0fe2db6f83aa23e486ba7d20b5ebf4c edgar chris <edgarchris4@gmail.com> 1460714532 +0300	commit: no more update messages

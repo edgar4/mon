@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 6a351cb6ad909c0d711925c5eb267ea33868198f edgar chris <edgarchris4@gmail.com> 1453451570 +0300	clone: from https://edgar_chris@bitbucket.org/circledevteam/monarch-insurance.git
+6a351cb6ad909c0d711925c5eb267ea33868198f fb4696dfcbc87eb4a9faa2071c556e97f299238e edgar chris <edgarchris4@gmail.com> 1456839931 +0300	commit: wordpress & gravityforms update
+fb4696dfcbc87eb4a9faa2071c556e97f299238e 2a3a2ae4915940100ed0bdf3ae8c2e3480a45875 edgar chris <edgarchris4@gmail.com> 1456840077 +0300	commit: removed akismet
+2a3a2ae4915940100ed0bdf3ae8c2e3480a45875 f8dbb25da1ae79d10c5f1ce3394d3683a3fce9d4 edgar chris <edgarchris4@gmail.com> 1456840236 +0300	commit: updated contact-form-7-datepicker
+f8dbb25da1ae79d10c5f1ce3394d3683a3fce9d4 6a351cb6ad909c0d711925c5eb267ea33868198f edgar chris <edgarchris4@gmail.com> 1456840417 +0300	reset: moving to 6a351cb6ad909c0d711925c5eb267ea33868198f
+6a351cb6ad909c0d711925c5eb267ea33868198f 09d6de490e9f876fe0fcba55161787b9c7d6c2cd edgar chris <edgarchris4@gmail.com> 1456840439 +0300	checkout: moving from master to development
+09d6de490e9f876fe0fcba55161787b9c7d6c2cd 935df01b69e6c69c83a87592471d4f5fa2e568d3 edgar chris <edgarchris4@gmail.com> 1456840750 +0300	commit: wordpress update
+935df01b69e6c69c83a87592471d4f5fa2e568d3 09d6de490e9f876fe0fcba55161787b9c7d6c2cd edgar chris <edgarchris4@gmail.com> 1456840789 +0300	reset: moving to 09d6de490e9f876fe0fcba55161787b9c7d6c2cd
+09d6de490e9f876fe0fcba55161787b9c7d6c2cd 09d6de490e9f876fe0fcba55161787b9c7d6c2cd edgar chris <edgarchris4@gmail.com> 1456840826 +0300	checkout: moving from development to upgrade
+09d6de490e9f876fe0fcba55161787b9c7d6c2cd 27c46ac8c888fbc02293454c1e01b0b7cb6b5130 edgar chris <edgarchris4@gmail.com> 1456840864 +0300	commit: ignore .idea
+27c46ac8c888fbc02293454c1e01b0b7cb6b5130 9a2cb7f56a0109437aaf9dae2163e80ca588006a edgar chris <edgarchris4@gmail.com> 1456842838 +0300	commit: wp ugrade
+9a2cb7f56a0109437aaf9dae2163e80ca588006a b9a84e854adb19d9af88478639ea1acd79f7c45e edgar chris <edgarchris4@gmail.com> 1456843143 +0300	commit: Contact Form datepicker upgrade
+b9a84e854adb19d9af88478639ea1acd79f7c45e 791272604bea9818f0acda330e95e3c4ccce82dc edgar chris <edgarchris4@gmail.com> 1456844193 +0300	commit: core and plugins update
+791272604bea9818f0acda330e95e3c4ccce82dc 09d6de490e9f876fe0fcba55161787b9c7d6c2cd edgar chris <edgarchris4@gmail.com> 1456910182 +0300	checkout: moving from upgrade to development
+09d6de490e9f876fe0fcba55161787b9c7d6c2cd d207378f617cf63e6c55b2086d2e587db61cb12f edgar chris <edgarchris4@gmail.com> 1460712380 +0300	commit: ignore idea
+d207378f617cf63e6c55b2086d2e587db61cb12f d207378f617cf63e6c55b2086d2e587db61cb12f edgar chris <edgarchris4@gmail.com> 1460712445 +0300	checkout: moving from development to development
+d207378f617cf63e6c55b2086d2e587db61cb12f 791272604bea9818f0acda330e95e3c4ccce82dc edgar chris <edgarchris4@gmail.com> 1460712467 +0300	checkout: moving from development to upgrade
+791272604bea9818f0acda330e95e3c4ccce82dc 41ce39c706ab5c118b9a794046839877017ebccb edgar chris <edgarchris4@gmail.com> 1460712712 +0300	commit: wp-core update
+41ce39c706ab5c118b9a794046839877017ebccb 230f6baf216399c5d74d615c0ed00a283b51f496 edgar chris <edgarchris4@gmail.com> 1460713093 +0300	commit: contact form 7 update
+230f6baf216399c5d74d615c0ed00a283b51f496 4b7114bc47968aaccd94f8cf82d4c0800a0ea86c edgar chris <edgarchris4@gmail.com> 1460714226 +0300	commit: plugins update
+4b7114bc47968aaccd94f8cf82d4c0800a0ea86c 7e39c0a2b0fe2db6f83aa23e486ba7d20b5ebf4c edgar chris <edgarchris4@gmail.com> 1460714532 +0300	commit: no more update messages
+7e39c0a2b0fe2db6f83aa23e486ba7d20b5ebf4c d207378f617cf63e6c55b2086d2e587db61cb12f edgar chris <edgarchris4@gmail.com> 1460715350 +0300	checkout: moving from upgrade to development
